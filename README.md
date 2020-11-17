@@ -1,9 +1,5 @@
 ### Hi there 👋
-         I am Prajwal KV.I am interested in Machine Learning.I have basic Knowledge in Excel,power BI and Tableau.
-<!--
-**prajwal-kv/prajwal-kv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+         I am Prajwal KV.I am interested in Machine Learning.I have basic Knowledge in Excel,power BI and Tableau
 
 - 🔭 I’m currently working on Machine learning projects.
 - 🌱 I’m currently learning Machine learning and Statistics.
