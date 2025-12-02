@@ -1,5 +1,5 @@
-# 👋 Hi, I'm [Your Name]
-
+# 👋 Hi, I'm Prajwal KV
+ 
 ## 🎯 About Me
 
 Data Engineer with 3 years of experience building scalable, efficient data solutions in cloud environments. I specialize in designing robust data pipelines, optimizing workflows, and transforming raw data into actionable insights that drive business decisions.
@@ -65,8 +65,8 @@ Continuously expanding my expertise in:
 - DataOps best practices
 
 ## 📫 Let's Connect
+Linkedin: https://www.linkedin.com/in/prajwal-kv-data-ai-engineer/
 
-[Add your contact links here - LinkedIn, Email, Portfolio, etc.]
 
 ---
 
